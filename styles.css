@@ -1,0 +1,19 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@layer components {
+  .user-img {
+    @apply w-12 h-12 rounded-full;
+  }
+
+  .user-name {
+    @apply block text-sm font-bold;
+  }
+
+  .heading-article {
+    @apply text-29 text-black leading-9 font-semibold mt-7 mb-4;
+  }
+}
