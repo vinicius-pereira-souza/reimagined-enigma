@@ -14,6 +14,6 @@
   }
 
   .heading-article {
-    @apply text-29 text-black leading-9 font-semibold mt-7 mb-4;
+    @apply text-29 text-black leading-38 font-semibold mt-7 mb-4;
   }
 }
