@@ -22538,6 +22538,10 @@ video {
   font-family: Manrope, sans-serif;
 }
 
+.text-17 {
+  font-size: 17px;
+}
+
 .text-29 {
   font-size: 29px;
 }
@@ -53496,6 +53500,10 @@ video {
     font-family: Manrope, sans-serif;
   }
 
+  .sm\:text-17 {
+    font-size: 17px;
+  }
+
   .sm\:text-29 {
     font-size: 29px;
   }
@@ -84092,6 +84100,10 @@ video {
 
   .md\:font-manrope {
     font-family: Manrope, sans-serif;
+  }
+
+  .md\:text-17 {
+    font-size: 17px;
   }
 
   .md\:text-29 {
@@ -114692,6 +114704,10 @@ video {
     font-family: Manrope, sans-serif;
   }
 
+  .lg\:text-17 {
+    font-size: 17px;
+  }
+
   .lg\:text-29 {
     font-size: 29px;
   }
@@ -145290,6 +145306,10 @@ video {
     font-family: Manrope, sans-serif;
   }
 
+  .xl\:text-17 {
+    font-size: 17px;
+  }
+
   .xl\:text-29 {
     font-size: 29px;
   }
@@ -175886,6 +175906,10 @@ video {
 
   .\32xl\:font-manrope {
     font-family: Manrope, sans-serif;
+  }
+
+  .\32xl\:text-17 {
+    font-size: 17px;
   }
 
   .\32xl\:text-29 {
