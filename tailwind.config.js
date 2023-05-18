@@ -13,6 +13,10 @@ module.exports = {
       fontSize: {
         29: "29px",
         33: "33px",
+        17: "17px",
+      },
+      lineHeight: {
+        38: "38px",
       },
       maxWidth: {
         1140: "1140px",

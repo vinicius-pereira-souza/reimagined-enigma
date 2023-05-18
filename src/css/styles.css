@@ -647,7 +647,7 @@ video {
   margin-bottom: 1rem;
   font-size: 29px;
   font-weight: 600;
-  line-height: 2.25rem;
+  line-height: 38px;
   --tw-text-opacity: 1;
   color: rgba(0, 0, 0, var(--tw-text-opacity));
 }
@@ -22538,6 +22538,10 @@ video {
   font-family: Manrope, sans-serif;
 }
 
+.text-17 {
+  font-size: 17px;
+}
+
 .text-29 {
   font-size: 29px;
 }
@@ -22746,6 +22750,10 @@ video {
 
 .leading-10 {
   line-height: 2.5rem;
+}
+
+.leading-38 {
+  line-height: 38px;
 }
 
 .leading-none {
@@ -53496,6 +53504,10 @@ video {
     font-family: Manrope, sans-serif;
   }
 
+  .sm\:text-17 {
+    font-size: 17px;
+  }
+
   .sm\:text-29 {
     font-size: 29px;
   }
@@ -53704,6 +53716,10 @@ video {
 
   .sm\:leading-10 {
     line-height: 2.5rem;
+  }
+
+  .sm\:leading-38 {
+    line-height: 38px;
   }
 
   .sm\:leading-none {
@@ -84094,6 +84110,10 @@ video {
     font-family: Manrope, sans-serif;
   }
 
+  .md\:text-17 {
+    font-size: 17px;
+  }
+
   .md\:text-29 {
     font-size: 29px;
   }
@@ -84302,6 +84322,10 @@ video {
 
   .md\:leading-10 {
     line-height: 2.5rem;
+  }
+
+  .md\:leading-38 {
+    line-height: 38px;
   }
 
   .md\:leading-none {
@@ -114692,6 +114716,10 @@ video {
     font-family: Manrope, sans-serif;
   }
 
+  .lg\:text-17 {
+    font-size: 17px;
+  }
+
   .lg\:text-29 {
     font-size: 29px;
   }
@@ -114900,6 +114928,10 @@ video {
 
   .lg\:leading-10 {
     line-height: 2.5rem;
+  }
+
+  .lg\:leading-38 {
+    line-height: 38px;
   }
 
   .lg\:leading-none {
@@ -145290,6 +145322,10 @@ video {
     font-family: Manrope, sans-serif;
   }
 
+  .xl\:text-17 {
+    font-size: 17px;
+  }
+
   .xl\:text-29 {
     font-size: 29px;
   }
@@ -145498,6 +145534,10 @@ video {
 
   .xl\:leading-10 {
     line-height: 2.5rem;
+  }
+
+  .xl\:leading-38 {
+    line-height: 38px;
   }
 
   .xl\:leading-none {
@@ -175888,6 +175928,10 @@ video {
     font-family: Manrope, sans-serif;
   }
 
+  .\32xl\:text-17 {
+    font-size: 17px;
+  }
+
   .\32xl\:text-29 {
     font-size: 29px;
   }
@@ -176096,6 +176140,10 @@ video {
 
   .\32xl\:leading-10 {
     line-height: 2.5rem;
+  }
+
+  .\32xl\:leading-38 {
+    line-height: 38px;
   }
 
   .\32xl\:leading-none {
